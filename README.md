@@ -75,4 +75,4 @@ You will find all the components used and you can edit your information accordin
 <br />
 
 # Portfotlio
-My personal portfolio which features some of my Github Projects as well as my Resume and Technical Skills. [💼](https://cdmmandalorian.github.io/AEGcodesPortfolio/ "Link AEGcodes Por").<br/>
+My personal portfolio which features some of my Github Projects as well as my Resume and Technical Skills. [💼](https://cdmmandalorian.github.io/AEGcodesPortfolio/ "Link AEGcodes Portfolio").
