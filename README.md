@@ -1,7 +1,7 @@
 # Eminent Employee Directory
 
 ## Table of Contents
-- [ Description ](#desc)
+- [ Description ](#description)
 - [ Live ](#live)
 - [ Screenshoots ](#screenshoots)
 - [ Installation ](#installation)
@@ -13,13 +13,13 @@
 Application that provices a list of Random Employees from RandomUser API. Application comes with Sidebar application that enables locating specific employee by set Categories on search
 
 
-# Live Page
+# Live
 
 Visit a Live Running Example of Eminent Employee Directory App [here](https://cdmmandalorian.github.io/Eminent-EmployeeDirectory/ "Link to Eminent Employee Directory").
 
 # Screenshoots
 
-<img src='./src/Assets/Images/eedss.png' >
+<img src='./src/Assets/Images/eedss.png'/>
 
 <br />
 
@@ -57,7 +57,7 @@ You will find all the components used and you can edit your information accordin
 <br>
 </br>
 
-# Technologies used:  
+# Technologies 
 
 
 | Client side             |                   |                  |
@@ -69,10 +69,10 @@ You will find all the components used and you can edit your information accordin
  
 <br />
 
-## License
+# License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br />
 
 # Portfotlio
-My personal portfolio <a href="https://cdmmandalorian.github.io/AEGcodesPortfolio/" target="_blank"></a> which features some of my Github Projects as well as my Resume and Technical Skills.<br/>
+My personal portfolio which features some of my Github Projects as well as my Resume and Technical Skills. [💼](https://cdmmandalorian.github.io/AEGcodesPortfolio/ "Link AEGcodes Por").<br/>
