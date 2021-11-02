@@ -1,0 +1,14 @@
+.card-container {
+    margin: 0 auto;
+    padding: 20px 200px;
+}
+div.sidebar.col{
+    max-width: 25%;
+}
+div.p-2.flex-fill.bd-highlight{
+    margin-top: 2%;
+}
+img.img-fluid{
+    max-width: 310px;
+    max-height: 310px;
+}
